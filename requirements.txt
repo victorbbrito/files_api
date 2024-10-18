@@ -2,4 +2,4 @@ fastapi==0.115.2
 pandas==2.2.3
 python-dotenv==1.0.1
 SQLAlchemy==2.0.31
-py
+psycopg2==2.9.9
